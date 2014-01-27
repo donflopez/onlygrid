@@ -4,6 +4,10 @@
       width: (100% / 12) * $i;
       float:left;
     }
+
+    .xo-#{$i} {
+      margin-left: (100% / 12) * $i;
+    }
   }
 }
 
@@ -12,6 +16,10 @@
     .s-#{$i} {
       width: (100% / 12) * $i;
       float:left;
+    }
+
+    .so-#{$i} {
+      margin-left: (100% / 12) * $i;
     }
   }
 }
@@ -22,6 +30,10 @@
       width: (100% / 12) * $i;
       float:left;
     }
+
+    .mo-#{$i} {
+      margin-left: (100% / 12) * $i;
+    }
   }
 }
 
@@ -30,6 +42,10 @@
     .l-#{$i} {
       width: (100% / 12) * $i;
       float:left;
+    }
+
+    .lo-#{$i} {
+      margin-left: (100% / 12) * $i;
     }
   }
 }
