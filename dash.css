@@ -1,0 +1,192 @@
+@media (max-width: 768px) {
+  .x-1 {
+    width: 8.33333%;
+    float: left; }
+
+  .x-2 {
+    width: 16.66667%;
+    float: left; }
+
+  .x-3 {
+    width: 25%;
+    float: left; }
+
+  .x-4 {
+    width: 33.33333%;
+    float: left; }
+
+  .x-5 {
+    width: 41.66667%;
+    float: left; }
+
+  .x-6 {
+    width: 50%;
+    float: left; }
+
+  .x-7 {
+    width: 58.33333%;
+    float: left; }
+
+  .x-8 {
+    width: 66.66667%;
+    float: left; }
+
+  .x-9 {
+    width: 75%;
+    float: left; }
+
+  .x-10 {
+    width: 83.33333%;
+    float: left; }
+
+  .x-11 {
+    width: 91.66667%;
+    float: left; }
+
+  .x-12 {
+    width: 100%;
+    float: left; } }
+@media (min-width: 768px) and (max-width: 991px) {
+  .s-1 {
+    width: 8.33333%;
+    float: left; }
+
+  .s-2 {
+    width: 16.66667%;
+    float: left; }
+
+  .s-3 {
+    width: 25%;
+    float: left; }
+
+  .s-4 {
+    width: 33.33333%;
+    float: left; }
+
+  .s-5 {
+    width: 41.66667%;
+    float: left; }
+
+  .s-6 {
+    width: 50%;
+    float: left; }
+
+  .s-7 {
+    width: 58.33333%;
+    float: left; }
+
+  .s-8 {
+    width: 66.66667%;
+    float: left; }
+
+  .s-9 {
+    width: 75%;
+    float: left; }
+
+  .s-10 {
+    width: 83.33333%;
+    float: left; }
+
+  .s-11 {
+    width: 91.66667%;
+    float: left; }
+
+  .s-12 {
+    width: 100%;
+    float: left; } }
+@media (min-width: 992px) and (max-width: 1199px) {
+  .m-1 {
+    width: 8.33333%;
+    float: left; }
+
+  .m-2 {
+    width: 16.66667%;
+    float: left; }
+
+  .m-3 {
+    width: 25%;
+    float: left; }
+
+  .m-4 {
+    width: 33.33333%;
+    float: left; }
+
+  .m-5 {
+    width: 41.66667%;
+    float: left; }
+
+  .m-6 {
+    width: 50%;
+    float: left; }
+
+  .m-7 {
+    width: 58.33333%;
+    float: left; }
+
+  .m-8 {
+    width: 66.66667%;
+    float: left; }
+
+  .m-9 {
+    width: 75%;
+    float: left; }
+
+  .m-10 {
+    width: 83.33333%;
+    float: left; }
+
+  .m-11 {
+    width: 91.66667%;
+    float: left; }
+
+  .m-12 {
+    width: 100%;
+    float: left; } }
+@media (min-width: 1200px) {
+  .l-1 {
+    width: 8.33333%;
+    float: left; }
+
+  .l-2 {
+    width: 16.66667%;
+    float: left; }
+
+  .l-3 {
+    width: 25%;
+    float: left; }
+
+  .l-4 {
+    width: 33.33333%;
+    float: left; }
+
+  .l-5 {
+    width: 41.66667%;
+    float: left; }
+
+  .l-6 {
+    width: 50%;
+    float: left; }
+
+  .l-7 {
+    width: 58.33333%;
+    float: left; }
+
+  .l-8 {
+    width: 66.66667%;
+    float: left; }
+
+  .l-9 {
+    width: 75%;
+    float: left; }
+
+  .l-10 {
+    width: 83.33333%;
+    float: left; }
+
+  .l-11 {
+    width: 91.66667%;
+    float: left; }
+
+  .l-12 {
+    width: 100%;
+    float: left; } }

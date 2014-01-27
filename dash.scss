@@ -1,0 +1,35 @@
+@media (max-width: 768px) {
+  @for $i from 1 through 12 {
+    .x-#{$i} {
+      width: (100% / 12) * $i;
+      float:left;
+    }
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  @for $i from 1 through 12 {
+    .s-#{$i} {
+      width: (100% / 12) * $i;
+      float:left;
+    }
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  @for $i from 1 through 12 {
+    .m-#{$i} {
+      width: (100% / 12) * $i;
+      float:left;
+    }
+  }
+}
+
+@media (min-width: 1200px) {
+  @for $i from 1 through 12 {
+    .l-#{$i} {
+      width: (100% / 12) * $i;
+      float:left;
+    }
+  }
+}
