@@ -18,9 +18,12 @@ For offset columns only add **o** after the screen size letter.
 * .lo-* : Large Screen Offset.
 
 File release/s2.min.css created.
+
 Original: 4412 bytes.
+
 Minified: 2862 bytes.
-Gzipped:  357 bytes.
+
+Gzipped:  **357 bytes.**
 
 ## License
 
