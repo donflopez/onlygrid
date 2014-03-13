@@ -1,4 +1,4 @@
-s2-responsive
+Only Grid
 =============
 
 A Super Simply Responsive library.
